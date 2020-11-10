@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BitManipulation101.iml" filepath="$PROJECT_DIR$/.idea/BitManipulation101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part1_Basics/Part1_Basics.iml" filepath="$PROJECT_DIR$/Part1_Basics/Part1_Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part2_BitHacks/Part2_BitHacks.iml" filepath="$PROJECT_DIR$/Part2_BitHacks/Part2_BitHacks.iml" />
+    </modules>
+  </component>
+</project>
